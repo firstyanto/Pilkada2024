@@ -1,5 +1,5 @@
-# Pilkada 2024
-## Google News Data fof Indonesian's PILKADA 2024 elections (All Java Area)
+Indonesia Pilkada 2024
+## Google News Data for Indonesian's PILKADA 2024 elections (All Java Area)
 
 Theese data was taken from Google News for research on the Correlation Analysis of Popularity and Electability in the 2024 Pilkada.
 
