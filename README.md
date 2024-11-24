@@ -10,10 +10,10 @@ The purpose of collecting this data is for research purposes only, and for compl
 Research Title: Popularity Correlation Analysis of the 2024 Indonesian Regional Election Candidate Electability Survey 
 
 Members of the group :
-Dias Aditya
-Doni Fristiyanto
-Nurkholik
-Philip Sun Bunaryo
+- Dias Aditya
+- Doni Fristiyanto
+- Nurkholik
+- Philip Sun Bunaryo
 
 Lecturer Name:
-Dr. Makhsun, M.Si
+- Dr. Makhsun, M.Si
