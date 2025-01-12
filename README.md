@@ -7,7 +7,7 @@ The motivation for this research is that the simultaneous implementation of the 
 
 The purpose of collecting this data is for research purposes only, and for completing postgraduate (S2) data mining assignments at Pamulang University (UNPAM).
 
-Research Title: Popularity Correlation Analysis of the 2024 Indonesian Regional Election Candidate Electability Survey 
+Research Title: Quantitative Analysis of the Impact of Political Endorsements on Electability Levels in the 2024 Simultaneous Regional Elections (Pilkada 2024)
 https://openjournal.unpam.ac.id/index.php/jikom/article/view/46343
 
 Members of the group :
